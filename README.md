@@ -50,7 +50,17 @@ python evaluate.py --pred <path_to_predictions> --gold <path_to_gold_standard>
 * `--gold`: Path to the JSON file containing the gold standard (default: `data/gold.jsonl`).
 
 ### Citation
-TODO
+```
+@misc{turski2025uncheckedoverlookedaddressingcheckbox,
+      title={Unchecked and Overlooked: Addressing the Checkbox Blind Spot in Large Language Models with CheckboxQA}, 
+      author={Michał Turski and Mateusz Chiliński and Łukasz Borchmann},
+      year={2025},
+      eprint={2504.10419},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.10419}, 
+}
+```
 
 ### License
 This dataset is intended for non-commercial research purposes and is provided under the CC BY-NC license.  
